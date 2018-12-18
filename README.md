@@ -2,8 +2,8 @@
 The upcoming AI conferences.
 
 
-Field | Class | Name | Date | Rest Date | Website | Deadline
- ----- | ----- | ------| ----- | ------ | ----- | ------  
+Field | Class | Name | Date | Rest Date | Website | Deadline | Is Comming | Date
+ ----- | ----- | ------| ---------- | ------ | ----- | ------ | ----- | ------  
 AI|A|AAAI|TED|-108||FALSE|FALSE||1-Sep-18
 AI|A|CVPR|15-Mar-19|87|http://cvpr2019.thecvf.com/program/doctoral_consortium|TRUE|TRUE||15-Mar-19
 AI|A|ICCV|1-Mar-19|73|http://iccv2019.thecvf.com/submission/main_conference/author_guidelines#submission_guidelines|TRUE|TRUE||1-Mar-19
@@ -13,7 +13,7 @@ AI|A|NIPS|TED|-214|https://neurips.cc/Conferences/2018/Dates|FALSE|FALSE||18-May
 AI|A|ACL|4-Mar-19|76|http://www.acl2019.org/EN/index.xhtml|TRUE|TRUE||4-Mar-19
 AI|B|COLT|1-Feb-19|45||TRUE|TRUE||1-Feb-19
 AI|B|EMNLP|21-May-19|154|https://www.emnlp-ijcnlp2019.org/|FALSE|TRUE||21-May-19
-AI|B|ECAI|TED|-365||FALSE|FALSE||TED
+AI|B|ECAI|TED|-365||FALSE|FALSE|TED
 AI|B|ECCV|TED|-101||FALSE|FALSE||8-Sep-18
 AI|B|ICRA|TED|-94|https://www.icra2019.org/contribute/call-for-papers|FALSE|FALSE||15-Sep-18
 AI|B|ICAPS|TED|-365||FALSE|FALSE||TED
